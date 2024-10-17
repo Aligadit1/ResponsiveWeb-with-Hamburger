@@ -132,6 +132,9 @@ html{
 .paras-justify{
     text-align: justify;
 }
+.text-big{
+    text-align: center;
+}
 .sectionTag{
     padding: 17px 0;
 }
