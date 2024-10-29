@@ -21,8 +21,6 @@ html{
     align-items: center;
 }
 .navbar ul div img{
-    border: 3px solid black;
-    border-radius: 50%;
     margin: 10px;
 
 
@@ -58,7 +56,7 @@ html{
 
 }
 .background{
-    background: rgba(0, 0, 0, 0.7) url(/img/burgershopbg.webp);
+    background: rgba(0, 0, 0, 0.7) url(../img/burgershopbg.jpg.png);
     background-size:cover ;
     background-blend-mode: darken;
 }
@@ -86,8 +84,6 @@ html{
 }
 
 .secondHalf img{
-    border: 4px solid black;
-    border-radius: 150px;
     display: block;
     margin: auto;
 }
